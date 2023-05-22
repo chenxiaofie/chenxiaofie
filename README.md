@@ -1,4 +1,6 @@
-### Hi there 👋
+### Chenxiaofie 👋
+
+![chenxiaofie's GitHub stats](https://github-readme-stats.vercel.app/api?username=chenxiaofie&count_private=true&theme=dark) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chenxiaofie)](https://git.io/streak-stats)
 
 <!--
 **chenxiaofie/chenxiaofie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,5 +14,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
