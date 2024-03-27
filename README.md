@@ -23,7 +23,8 @@
 </p>
 
 <h2>🌱 Summary</h3>
+
 <p style="display: flex;align-items: center;">
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=chenxiaofie&include_all_commits=false&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="chenxiaofie's Github Stats">
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxiaofie&layout=compact&text_color=daf7dc&bg_color=151515&exclude_repo=chenxiaofie.github.io" >
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=chenxiaofie&include_all_commits=false&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="chenxiaofie's Github Stats">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxiaofie&layout=compact&text_color=daf7dc&bg_color=151515&exclude_repo=chenxiaofie.github.io" >
 </p>
