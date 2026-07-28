@@ -1,31 +1,63 @@
-<h2>👋 Hello there</h2>
+<div align="center">
 
-- 🧑‍💻 陈佳俊 / Jiajun Chen，前端工程师，杭州（Frontend engineer in Hangzhou, China）
-- 🔭 I’m currently working on [memory-mcp](https://github.com/chenxiaofie/memory-mcp) — persistent memory for Claude Code
-- 💬 Ask me about feifeichen1999@gmail.com
+# 陈佳俊 &nbsp;/&nbsp; Jiajun Chen
 
-<h2>🛠 Languages and tools</h3>
-<p>
-  <img src="https://img.shields.io/badge/-Vue-000000?logo=Vue.js&style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/-Svelte-333333?logo=Svelte&style=for-the-badge"/> 
-  <img src="https://img.shields.io/badge/-TypeScript-16213E?logo=TypeScript&style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/-Sass-C0EEE4?logo=Sass&style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/-LEss-66b610?logo=Less&style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/-TailwindCSS-C689C6?logo=TailwindCSS&style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/-Nuxt-FCC624?logo=Nuxt.js&style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/-Node-E8F3D6?logo=Node.js&style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/-Koa2-000000?logo=Koa2&style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/-pnpm-F1F7B5?logo=pnpm&style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/-Webpack-019833?logo=Webpack&style=for-the-badge" /> 
-  <img src="https://img.shields.io/badge/-Vite-C8DBBE?logo=Vite&style=for-the-badge" /> 
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" /> 
-  <img alt="VS Code" src="https://img.shields.io/static/v1?style=for-the-badge&message=VS+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label="> 
-  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-46a2f1?&style=for-the-badge&logo=Kubernetes&logoColor=white" /> 
-</p>
+**前端工程师 · 杭州** &nbsp;&nbsp;|&nbsp;&nbsp; **Frontend Engineer · Hangzhou, China**
 
-<h2>🌱 Summary</h3>
+<img alt="Vue 3" src="https://img.shields.io/badge/Vue_3-1a1245?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+<img alt="React" src="https://img.shields.io/badge/React-1a1245?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1a1245?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img alt="Next.js" src="https://img.shields.io/badge/Next.js-1a1245?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
+<br />
+<img alt="Vite" src="https://img.shields.io/badge/Vite-221a52?style=for-the-badge&logo=vite&logoColor=646CFF" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-221a52?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+<img alt="Python" src="https://img.shields.io/badge/Python-221a52?style=for-the-badge&logo=python&logoColor=3776AB" />
+<img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-221a52?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" />
 
-<p style='display:flex;align:enter'>
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=chenxiaofie&include_all_commits=false&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="chenxiaofie's Github Stats">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxiaofie&layout=compact&text_color=daf7dc&bg_color=151515&exclude_repo=chenxiaofie.github.io" >
-</p>
+</div>
+
+---
+
+### 📦 Projects
+
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/chenxiaofie/memory-mcp">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chenxiaofie&repo=memory-mcp&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&border_color=30363D&show_owner=false" alt="memory-mcp" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/chenxiaofie/design-studio">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chenxiaofie&repo=design-studio&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&border_color=30363D&show_owner=false" alt="design-studio" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/chenxiaofie/hru">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chenxiaofie&repo=hru&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&border_color=30363D&show_owner=false" alt="hru" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/chenxiaofie/event-discovery">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chenxiaofie&repo=event-discovery&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&border_color=30363D&show_owner=false" alt="event-discovery" />
+</a>
+</td>
+</tr>
+</table>
+
+也在维护 &nbsp;[**uniapp-reserve-demo**](https://github.com/chenxiaofie/uniapp-reserve-demo) — uni-app 预约小程序，用户端 / 商家端双角色全流程 &nbsp;·&nbsp; [**playmate_backend**](https://github.com/chenxiaofie/playmate_backend) — 陪玩点单业务后台，Node + Express 分层架构
+
+---
+
+<div align="center">
+
+<img height="150" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=chenxiaofie&include_all_commits=false&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&border_color=30363D" />
+<img height="150" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chenxiaofie&layout=compact&langs_count=8&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40&border_color=30363D&exclude_repo=chenxiaofie.github.io" />
+
+<br /><br />
+
+📮 &nbsp;feifeichen1999@gmail.com
+
+</div>
